@@ -3,17 +3,7 @@
 🎓 **Bachelor's in Information Technology** – University of Moratuwa  
 🎶 **Creative Music & Technology Production** – University of Sri Jayewardenepura  
 
-💡 I love building creative digital experiences — from full-stack applications to tech-driven music projects.  
-🔥 Exploring modern web development, cloud technologies, and scalable systems.
-
----
-
-## 🚀 About Me  
-- 🌱 Currently learning and building with the **MERN Stack**  
-- 🎧 Passionate about combining **technology + music**  
-- 📌 Enjoys creating clean UI/UX experiences  
-- 🎯 Working towards becoming a **full-stack engineer**  
-- 🧠 Loves problem-solving and backend architecture  
+💡 Passionate about full-stack development, creative technologies, and building modern web applications.
 
 ---
 
@@ -38,34 +28,23 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-### 🔥 Streaks  
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vinuki&theme=tokyonight&hide_border=true" />
-</p>
-
-### 📈 Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinuki&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinuki&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VinukiOmalshara&show_icons=true&theme=tokyonight" height="180" />
 </p>
 
 ---
 
-## 🛠️ Featured Skills  
-- Full-stack development  
-- REST API design  
-- NoSQL & SQL database modelling  
-- UI/UX structure with Tailwind  
-- Authentication systems (Firebase)  
-- Deploying cloud-ready applications  
+## 🔥 GitHub Streaks  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VinukiOmalshara&theme=tokyonight&hide_border=true" height="180" />
+</p>
 
 ---
 
 ## 📫 Connect With Me  
-🔗 **LinkedIn:** [vinuki-omalshara-953118279](https://www.linkedin.com/in/vinuki-omalshara-953118279/)  
+🔗 **LinkedIn:** [vinuki-omalshara-953118279](https://www.linkedin.com/in/vinuki-omalshara-953118279/)
 
 ---
 
-⭐ *Thanks for visiting! Feel free to explore my projects and follow for more.*  
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*

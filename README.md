@@ -30,11 +30,17 @@
 
 ## 📊 GitHub Analytics
 
-![Vinuki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinukiOmalshara&show_icons=true&theme=tokyonight&count_private=true)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=VinukiOmalshara&show_icons=true&theme=tokyonight&locale=en" alt="Vinuki's Stats" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinukiOmalshara&layout=compact&theme=tokyonight)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinukiOmalshara&layout=compact&theme=tokyonight&langs_count=6" alt="Vinuki's Top Languages" />
+</p>
 
-![Vinuki's GitHub Streak](https://streak-stats.demolab.com?user=VinukiOmalshara&theme=tokyonight&hide_border=true)
+<p align="left">
+<img src="https://streak-stats.demolab.com?user=VinukiOmalshara&theme=tokyonight&hide_border=true" alt="Vinuki's Streak" />
+</p>
 
 ---
 

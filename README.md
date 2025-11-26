@@ -28,16 +28,18 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VinukiOmalshara&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VinukiOmalshara&show_icons=true&theme=tokyonight" alt="Vinuki's GitHub Stats" />
 </p>
 
 ---
 
-## 🔥 GitHub Streaks  
+## 🔥 GitHub Streaks
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VinukiOmalshara&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=VinukiOmalshara&theme=tokyonight&hide_border=true" alt="Vinuki's GitHub Streak" />
 </p>
 
 ---

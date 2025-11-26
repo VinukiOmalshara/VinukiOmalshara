@@ -28,19 +28,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VinukiOmalshara&show_icons=true&theme=tokyonight" alt="Vinuki's GitHub Stats" />
-</p>
+![Vinuki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinukiOmalshara&show_icons=true&theme=tokyonight&count_private=true)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinukiOmalshara&layout=compact&theme=tokyonight)
 
-## 🔥 GitHub Streaks
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VinukiOmalshara&theme=tokyonight&hide_border=true" alt="Vinuki's GitHub Streak" />
-</p>
+![Vinuki's GitHub Streak](https://streak-stats.demolab.com?user=VinukiOmalshara&theme=tokyonight&hide_border=true)
 
 ---
 
